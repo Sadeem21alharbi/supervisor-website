@@ -1,0 +1,36 @@
+.ddiivv {
+ background-color: #e3f6f6;
+ border-color: #454747;
+ float: left;
+ padding: 10px;
+ margin-left: 10px;
+ width: 30%;
+ text-align: left;
+ border-radius: 15px;
+}
+
+.bor{
+    background-color: #90baba;
+    border-width: 20% ;
+    border-radius: 18px;
+    padding:4px;
+    margin-left:50px;
+    margin-right:50px;
+   
+}
+
+.para {
+  color: black;
+  font-size: 100%;
+  text-shadow: #454747; 
+  text-align: left; 
+  margin-left:10px;
+   
+}
+
+.heda {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
